@@ -1,0 +1,19 @@
+.catLists{
+    width: 100%;
+    text-align: center;
+}
+
+.catLists ul{
+    width: 90%;
+    height: 45px;
+    margin:10px auto;
+}
+
+.catLists ul li{
+    width:20%;
+    line-height:45px;
+    border: 1px #fe4800 solid;
+    border-radius: 4px;
+    float:left;
+    margin:5px;
+}

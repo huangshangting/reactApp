@@ -1,0 +1,30 @@
+
+
+.productList{
+    width: 90%;
+    margin:10px auto;
+    clear: both;
+}
+
+.productList ul li{
+    width: 100%;
+    height: auto;
+    clear: both;
+    margin:20px auto;
+}
+
+.productList li .product_img{
+    width: 40%;
+    float: left;
+}
+
+.productList li .product_img img{
+    width: 100%;
+    height: auto;
+}
+
+.productList li .product_text{
+    width: 55%;
+    height: auto;
+    float: left;
+}

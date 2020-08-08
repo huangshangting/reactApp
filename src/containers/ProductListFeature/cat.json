@@ -1,0 +1,33 @@
+{"catsL" : [
+    {
+        "catName" : "女装",
+        "catValue" : 3788
+    },
+    {
+        "catName" : "家居家装",
+        "catValue" : 3792
+    },{
+        "catName" : "数码家电",
+        "catValue" : 3793
+    },{
+        "catName" : "鞋包配饰",
+        "catValue" : 3796
+    },{
+        "catName" : "美妆个护",
+        "catValue" : 3794
+    },{
+        "catName" : "男装",
+        "catValue" : 3790
+    },{
+        "catName" : "内衣",
+        "catValue" : 3787
+    },{
+        "catName" : "母婴",
+        "catValue" : 3789
+    },{
+        "catName" : "食品",
+        "catValue" : 3791
+    },{
+        "catName" : "运动户外",
+        "catValue" : 3795
+    }]}
